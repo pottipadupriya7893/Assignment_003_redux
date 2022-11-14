@@ -1,0 +1,35 @@
+h1{
+  color:rgb(216, 10, 89);
+  /* background-color: rgb(43, 180, 30); */
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.Values label{
+  margin-left: 45px;
+  font-weight: bold;
+  margin-left:400px ;
+
+}
+.Values select{
+  width:300px;
+  height:50px;
+  margin-left:20px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: rgb(226, 216, 218);
+ border: 5px solid rgb(216, 201, 201);
+
+}
+ select{
+  background-color:rgb(34, 36, 36);
+  margin-left: 1000px;
+  }
+  label{
+    border-width:4px;
+    color: rgb(19, 162, 228);
+  }
+  body{
+    background-color: peachpuff;
+  }
+  
